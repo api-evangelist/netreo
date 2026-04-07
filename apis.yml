@@ -1,6 +1,7 @@
 aid: netreo
 name: Netreo
-description: 'Netreo API List '
+description: >-
+  Netreo API List.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -15,7 +16,8 @@ specificationVersion: '0.19'
 apis:
   - aid: netreo:netreo
     name: Netreo
-    description: 'Netreo API List '
+    description: >-
+      Netreo API List.
     humanURL: ' https://solutions.netreo.com/docs/netreo-api-list'
     tags:
       - API
