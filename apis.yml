@@ -42,6 +42,10 @@ apis:
       - type: Reference
         url: https://solutions.netreo.com/docs
 common:
+  - type: GitHubOrganization
+    url: https://github.com/netreo
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/netreo
   - type: Website
     url: https://www.helixops.ai/products/netreo.html
   - type: Documentation
